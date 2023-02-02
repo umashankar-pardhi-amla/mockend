@@ -59,8 +59,8 @@
         "max": "2020-12-31T23:59:59Z"
       }
     },
-    "post": {
-      "belongsTo": "Post"
+    "products": {
+      "belongsTo": "Products"
     }
   }
 }
